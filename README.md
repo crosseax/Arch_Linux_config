@@ -6,7 +6,7 @@
 This repository contains personal Arch Linux configuration folders. 
 
 
-## Install
+## Instructions
 
 To use, clone the repo then move related folder into ~/.config 
 
