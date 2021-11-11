@@ -30,5 +30,5 @@ Folder name - Usage
 ```
 
 ```sh
-kitty - for fish terminal customization
+kitty - fish terminal customization
 ```
