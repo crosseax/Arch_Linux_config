@@ -1,6 +1,7 @@
 # Arch_Linux_config
 
-## Introduction
+
+## Brief
 
 This is a personal Arch Linux configuration folder. 
 
@@ -26,7 +27,7 @@ sudo mv [./folder] [~./config]
 Lists for what's which folder for.
 
 ```sh
-Folder name - Usage
+Folder_name - Usage
 ```
 
 ```sh
