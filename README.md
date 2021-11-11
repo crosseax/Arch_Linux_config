@@ -1,5 +1,11 @@
 # Arch_Linux_config
+
+## Introduction
+
 This is a personal Arch Linux configuration folder. 
+
+
+## Install
 
 To use, clone the repo then move related folder into ~/.config 
 
@@ -16,8 +22,8 @@ sudo mv [./folder] [~./config]
 ```
 
 
+## Config Folder List - Usage
 Lists for what's which folder for.
-
 
 ```sh
 Folder name - Usage
