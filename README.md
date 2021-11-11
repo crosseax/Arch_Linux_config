@@ -3,7 +3,7 @@
 
 ## Brief
 
-This is a personal Arch Linux configuration folder. 
+This repository contains personal Arch Linux configuration folders. 
 
 
 ## Install
