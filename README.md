@@ -30,5 +30,3 @@ Lists for what's which folder for.
 > Folder_name - Usage
 
 - kitty - terminal customization
-
-- fish - terminal customization, including tide
