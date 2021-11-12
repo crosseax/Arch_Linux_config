@@ -26,12 +26,9 @@ sudo mv [./folder] [~./config]
 ## Config Folder List - Usage
 Lists for what's which folder for.
 
-```sh
-Folder_name - Usage
-```
 
-```sh
-kitty - terminal customization
+> Folder_name - Usage
 
-fish - terminal customization, including tide
-```
+- kitty - terminal customization
+
+- fish - terminal customization, including tide
