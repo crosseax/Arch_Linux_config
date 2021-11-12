@@ -31,5 +31,7 @@ Folder_name - Usage
 ```
 
 ```sh
-kitty - fish terminal customization
+kitty - terminal customization
+
+fish - terminal customization, including tide
 ```
