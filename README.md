@@ -5,6 +5,10 @@
 
 This repository contains personal Arch Linux configuration folders. 
 
+PS: This is made somewhere around 2021-2022. It might be heavily outdated. Currently, it is just for the self study purpose and config convenience.
+
+PS2: I use Arch btw.
+
 
 ## Instructions
 
